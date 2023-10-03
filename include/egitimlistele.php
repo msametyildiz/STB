@@ -1,3 +1,16 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veritabanı Tablosu</title>
+    <!-- DataTables CSS ve JavaScript Kütüphaneleri -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.2.2/css/buttons.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.2.2/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.2.2/js/buttons.html5.min.js"></script>
+</head>
+<body>
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <div class="content-header" style="padding-top: 3%;">
@@ -13,14 +26,19 @@
 
     <section class="content">
         <div class="container-fluid">
-            <div class="row">
+        <div class="row">
+                <div class="col-md-12">
+                    <a href="#"></a>
+                </div>
                 <div class="col-md-12"><br></div>
             </div>
-
             <div class="card">
                 <div class="card-body">
                     <table id="example1" class="table table-bordered table-striped">
+                       <div ><a href=""  ><img src="stbpdf.jpg" alt="" style="width: 100%;"></a>
+                       </div>
                         <thead>
+                        
                             <tr>
                                 <th style="text-align: center;" colspan="2"></th>
                                 <th style="text-align: center;" colspan="4">Yapılması Planlanan Eğitim Programının</th>

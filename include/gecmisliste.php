@@ -20,6 +20,8 @@
             <div class="card">
                 <div class="card-body">
                     <table id="example1" class="table table-bordered table-striped">
+                    <div ><a href=""  ><img src="stbpdf.jpg" alt="" style="width: 100%;"></a>
+                       </div>
                         <thead>
                             <tr>
                                 <th style="text-align: center;" colspan="2"></th>

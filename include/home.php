@@ -1,21 +1,22 @@
 <style>
-  .content-wrapper {
-            background-image: url('hakkimizda.png'); /* Arka plan resminin URL'sini buraya ekleyin */
-            background-size: cover;
-            background-position: center;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-            color: white;
-            opacity: 0.9;
-        }
-        .content-header {
-            background-color: rgba(0, 0, 0, 0.5);
-        }
+    .content-wrapper {
+        background-image: url('stb2.jpg');
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        color: white;
+        opacity: 0.65;
+    }
+
+    .content-header {
+        background-color: rgba(0, 0, 0, 0.5);
+    }
 </style>
 <div class="content-wrapper">
-        <!--
+    <!--
         <div class="content-header">
             <div class="container-fluid">
                 <div class="row mb-2">
@@ -38,4 +39,4 @@
               </div>
             </div>
         </section>-->
-    </div><!-- /.content-wrapper -->
+</div><!-- /.content-wrapper -->
